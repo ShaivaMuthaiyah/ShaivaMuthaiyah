@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaivaMuthaiyah
 - 👀 I’m interested in technology, games, movies and anime
-- 🌱 I’m currently learning cloud computing and python.
+- 🌱 I’m currently learning cloud computing, DevOps and python.
 - 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me ShaivaMuthaiya@gmail.com
 
